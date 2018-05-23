@@ -1,7 +1,8 @@
 # Bench-QACinema
 
-Basic front end added so far all working pages just need content...
+Basic front end added
+PayPal basket service added 
 
 index.html is the homepage
 
-Cheers
+Also been added is test cases that can be seen on the selenuim-tests branch
